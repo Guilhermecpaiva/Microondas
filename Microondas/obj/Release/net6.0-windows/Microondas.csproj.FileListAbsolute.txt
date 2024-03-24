@@ -1,0 +1,12 @@
+D:\WS-VSCODE\Sistema.Microondas\Microondas\obj\Release\net6.0-windows\Microondas.csproj.AssemblyReference.cache
+D:\WS-VSCODE\Sistema.Microondas\Microondas\obj\Release\net6.0-windows\MicroOndas.Form1.resources
+D:\WS-VSCODE\Sistema.Microondas\Microondas\obj\Release\net6.0-windows\MicroOndas.View.Inserir.resources
+D:\WS-VSCODE\Sistema.Microondas\Microondas\obj\Release\net6.0-windows\MicroOndas.View.Pesquisa.resources
+D:\WS-VSCODE\Sistema.Microondas\Microondas\obj\Release\net6.0-windows\Microondas.csproj.GenerateResource.cache
+D:\WS-VSCODE\Sistema.Microondas\Microondas\obj\Release\net6.0-windows\Microondas.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS-VSCODE\Sistema.Microondas\Microondas\obj\Release\net6.0-windows\Microondas.AssemblyInfoInputs.cache
+D:\WS-VSCODE\Sistema.Microondas\Microondas\obj\Release\net6.0-windows\Microondas.AssemblyInfo.cs
+D:\WS-VSCODE\Sistema.Microondas\Microondas\obj\Release\net6.0-windows\Microondas.csproj.CoreCompileInputs.cache
+D:\WS-VSCODE\Sistema.Microondas\Microondas\obj\Release\net6.0-windows\View.Microondas.Inserir.resources
+D:\WS-VSCODE\Sistema.Microondas\Microondas\obj\Release\net6.0-windows\View.Microondas.Form1.resources
+D:\WS-VSCODE\Sistema.Microondas\Microondas\obj\Release\net6.0-windows\View.Microondas.Pesquisa.resources

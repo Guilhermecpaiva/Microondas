@@ -1,0 +1,62 @@
+[
+  {
+    "Alimentos": [
+      "Pipoca"
+      
+    ],
+    "C": "*",
+    "Instrucao": " Observar o barulho de estouros do milho, caso houver um intervalo de mais de 10 segundos entre um estouro e outro, interrompa o aquecimento.",
+    "NomePrograma": "Pipoca",
+    "Tempo": 7.0,
+    "Alimento": "Pipoca",
+    "Potencia": 7
+  },
+  {
+    "Alimentos": [
+      "Leite"
+
+    ],
+    "C": ".",
+    "Instrucao": "Cuidado com aquecimento de líquidos, o choque térmico aliado ao movimento do recipiente pode causar fervura imediata causando risco de queimaduras.",
+    "NomePrograma": "Leite",
+    "Tempo": 5.0,
+    "Alimento": "Leite",
+    "Potencia": 5
+  },
+  {
+    "Alimentos": [
+      " Carne em pedaço ou fatias"
+    ],
+    "C": "-",
+    "Instrucao": "Interrompa o processo na metade e vire o conteúdo com a parte de baixo para cima para o descongelamento uniforme.",
+    "NomePrograma": "Carne",
+    "Tempo": 14.0,
+    "Alimento": " Carne em pedaço ou fatias",
+    "Potencia": 4
+  },
+  {
+    "Alimentos": [
+      " Frango (qualquer corte)"
+
+    ],
+    "C": "%",
+    "Instrucao": "Interrompa o processo na metade e vire o conteúdo com a parte de baixo para cima para o descongelamento uniforme.",
+    "NomePrograma": " Frango (qualquer corte)",
+    "Tempo": 7.0,
+    "Alimento": " Frango (qualquer corte)",
+    "Potencia": 7
+  },
+  {
+    "Alimentos": [
+      "Feijão congelado"
+
+    ],
+    "C": "@",
+    "Instrucao": " Deixe o recipiente destampado e em casos de plástico, cuidado ao retirar o recipiente pois o mesmo pode perder resistência em altas temperaturas.",
+    "NomePrograma": "Feijão congelado",
+    "Tempo": 8.0,
+    "Alimento": "Feijão congelado",
+    "Potencia": 9
+  }
+
+]

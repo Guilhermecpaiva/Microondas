@@ -1,0 +1,127 @@
+[
+  {
+    "AlimentosAquecimento": [],
+    "CaractereAquecimento": "P",
+    "Instrucoes": "Observar o barulho de estouros do milho, caso houver um intervalo de mais de 10 segundos entre um \r\n    estouro e outro, interrompa o aquecimento",
+    "Nome": "Pipoca",
+    "Time": 420.0,
+    "Potencia": 7,
+    "Comida": null
+  },
+  {
+    "AlimentosAquecimento": [],
+    "CaractereAquecimento": "\u0000",
+    "Instrucoes": null,
+    "Nome": null,
+    "Time": 0.0,
+    "Potencia": 3,
+    "Comida": null
+  },
+  {
+    "AlimentosAquecimento": [],
+    "CaractereAquecimento": "\u0000",
+    "Instrucoes": null,
+    "Nome": null,
+    "Time": 0.0,
+    "Potencia": 2,
+    "Comida": null
+  },
+  {
+    "AlimentosAquecimento": [],
+    "CaractereAquecimento": "\u0000",
+    "Instrucoes": null,
+    "Nome": null,
+    "Time": 0.0,
+    "Potencia": 1,
+    "Comida": null
+  },
+  {
+    "AlimentosAquecimento": [],
+    "CaractereAquecimento": "\u0000",
+    "Instrucoes": null,
+    "Nome": null,
+    "Time": 0.0,
+    "Potencia": 4,
+    "Comida": null
+  },
+  {
+    "AlimentosAquecimento": [],
+    "CaractereAquecimento": "\u0000",
+    "Instrucoes": null,
+    "Nome": null,
+    "Time": 0.0,
+    "Potencia": 7,
+    "Comida": null
+  },
+  {
+    "AlimentosAquecimento": [],
+    "CaractereAquecimento": "\u0000",
+    "Instrucoes": null,
+    "Nome": null,
+    "Time": 0.0,
+    "Potencia": 1,
+    "Comida": null
+  },
+  {
+    "AlimentosAquecimento": [],
+    "CaractereAquecimento": "\u0000",
+    "Instrucoes": null,
+    "Nome": null,
+    "Time": 0.0,
+    "Potencia": 1,
+    "Comida": null
+  },
+  {
+    "AlimentosAquecimento": [],
+    "CaractereAquecimento": "\u0000",
+    "Instrucoes": null,
+    "Nome": null,
+    "Time": 0.0,
+    "Potencia": 2,
+    "Comida": null
+  },
+  {
+    "AlimentosAquecimento": [
+      "Frango"
+    ],
+    "CaractereAquecimento": "f",
+    "Instrucoes": "Aquecer Frango",
+    "Nome": "Frango",
+    "Time": 10.0,
+    "Potencia": 10,
+    "Comida": null
+  },
+  {
+    "AlimentosAquecimento": [
+      "TESTE"
+    ],
+    "CaractereAquecimento": "$",
+    "Instrucoes": "TESTE DO TESTE",
+    "Nome": "TESTE",
+    "Time": 1.0,
+    "Potencia": 5,
+    "Comida": null
+  },
+  {
+    "AlimentosAquecimento": [
+      "testeee"
+    ],
+    "CaractereAquecimento": ")",
+    "Instrucoes": "tessteee",
+    "Nome": "tesstee",
+    "Time": 10.0,
+    "Potencia": 5,
+    "Comida": null
+  },
+  {
+    "AlimentosAquecimento": [
+      "AAAA"
+    ],
+    "CaractereAquecimento": "A",
+    "Instrucoes": "AAAAAA",
+    "Nome": "AAAAAAAAA",
+    "Time": 1.0,
+    "Potencia": 1,
+    "Comida": null
+  }
+]
